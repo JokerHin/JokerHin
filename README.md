@@ -9,12 +9,7 @@
 
 - 🔭 I’m currently working on **my own company**
 
-- 🌱 I’m currently learning **many programming languages**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social media links here -->
-</p>
+- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript, PHP, Java, SQL, VueJS, ReactJS**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
