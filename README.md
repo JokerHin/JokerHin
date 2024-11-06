@@ -52,7 +52,7 @@
 </p>
 
 <td colspan="0" align="center">
-  <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=jokerhin&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
+  <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=kavicastelo&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
 </td>
 
 <a href="https://github.com/JokerHin/github-readme-activity-graph"><img alt="jokerhin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JokerHin&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
