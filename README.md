@@ -51,9 +51,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jokerhin&" alt="jokerhin" />
 </p>
 
-<div align="center">
-  [![JokerHin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JokerHin)](https://github.com/jokerhin/github-readme-stats)
-</div>
+<td colspan="0" align="center">
+  <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=jokerhin&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
+</td>
 
 <a href="https://github.com/JokerHin/github-readme-activity-graph"><img alt="jokerhin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JokerHin&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
 
