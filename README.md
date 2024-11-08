@@ -1,9 +1,9 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Kar Hin</h1>
 
-<br><br>
-![](https://github-profile-trophy.vercel.app/?username=JokerHin&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-13&row1)
-<br><br>
+<p align="center">
+  <img alt="JokerHin Github Trophy" src="https://github-profile-trophy.vercel.app/?username=JokerHin&row=1&theme=monokai"></img>
+</p>
 
 <h3 align="center">A Student from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" />
