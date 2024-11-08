@@ -3,9 +3,14 @@
 
 <p align="center">
   <img alt="JokerHin Github Trophy" src="https://github-profile-trophy.vercel.app/?username=JokerHin&row=1&theme=monokai"></img>
-</p>
 
-<h3 align="center">A Student from Malaysia</h3>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" />
 
 <p align="left"> 
