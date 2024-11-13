@@ -1,5 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Kar Hin</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Hello+🤙;I'm+Cho+Kar Hin+(+＾◡＾)っ;I'm+a+Developer+🧑🏻‍💻;I'm+a+Software+Engineer+👷🏻‍♂️;I'm+a+Full+Time+Learner+🤓;"/>
+<!--     <b>Yo, I'm Ang Jianming 🤙</b> -->
+</h1>
 
 <p align="center">
   <img alt="JokerHin Github Trophy" src="https://github-profile-trophy.vercel.app/?username=JokerHin&row=1&theme=monokai"></img>
