@@ -1,7 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Hello+🤙;I'm+Cho+Kar Hin+(+＾◡＾)っ;I'm+a+Developer+🧑🏻‍💻;I'm+a+Software+Engineer+👷🏻‍♂️;I'm+a+Full+Time+Learner+🤓;"/>
-<!--     <b>Yo, I'm Ang Jianming 🤙</b> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Yo+wussup+🤙;I'm+Cho+KarHin+(+＾◡＾)っ;I'm+a+Developer+🧑🏻‍💻;I'm+a+Software+Engineer+👷🏻‍♂️;I'm+a+Full+Time+Learner+🤓;"/>
 </h1>
 
 <p align="center">
