@@ -3,8 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Yo+wussup+🤙;I'm+Cho+KarHin+(+＾◡＾)っ;I'm+a+Developer+🧑🏻‍💻;I'm+a+Software+Engineer+👷🏻‍♂️;I'm+a+Full+Time+Learner+🤓;"/>
 </h1>
 
-<p align="center">
-  <img alt="JokerHin Github Trophy" src="https://github-profile-trophy.vercel.app/?username=JokerHin&row=1&theme=monokai"></img>
+<!-- Github Achievements --> 
+<br><br>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JokerHin&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-13&row1)
+<br><br>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
