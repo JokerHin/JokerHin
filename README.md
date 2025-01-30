@@ -62,7 +62,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jokerhin&" alt="jokerhin" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jokerhin" alt="jokerhin" />
 </p>
 
 <a href="https://github.com/JokerHin/github-readme-activity-graph"><img alt="jokerhin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JokerHin&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
