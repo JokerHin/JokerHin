@@ -15,7 +15,7 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" />
+<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jokerhin&label=Profile%20views&color=0e75b6&style=flat" alt="jokerhin" /> 
