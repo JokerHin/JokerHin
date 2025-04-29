@@ -21,9 +21,6 @@
   <img src="https://komarev.com/ghpvc/?username=jokerhin&label=Profile%20views&color=0e75b6&style=flat" alt="jokerhin" /> 
 </p>
 
-- 🔭 I’m currently working on **my own company**
-
-- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript, PHP, Java, SQL, VueJS, ReactJS**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
